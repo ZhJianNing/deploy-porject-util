@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: zjn
+Main-Class: com.zjn.util.FileTransferClient
+Class-Path: 
